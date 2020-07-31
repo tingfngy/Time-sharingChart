@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="background">#8CDBFF</color>
+    <color name="detailBackground">#A5BFC3</color>
+    <color name="grid">#000000</color>
+    <color name="red">#9F0B0B</color>
+    <color name="green">#29882D</color>
+    <color name="black">#000000</color>
+    <color name="blue">#03A9F4</color>
+    <color name="yellow">#C87700</color>
+    <color name="detailItem">#3F51B5</color>
+
+    <color name="detailTime">#6200EE</color>
+    <color name="white">#FFFFFF</color>
+</resources>
